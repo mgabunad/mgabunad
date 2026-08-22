@@ -1,8 +1,8 @@
 # Hi, I'm Mayjhon 👋
 
-Full Stack Web Developer & Data Analyst based in Cebu, Philippines — building web applications with Laravel and turning raw data into readable decisions.
+Full Stack Web Developer & Data Analyst based in Cebu, Philippines — developing web applications with Laravel and working with data to find clear insights.
 
-- 🌱 Currently training in Full Stack Web Development and Full Stack Data Analytics at CIIT College, plus a Data Analyst program at ExcelHelpline.ph
+- 🎓 Building skills in Full Stack Web Development and Full Stack Data Analytics at CIIT College, plus a Data Analyst program at ExcelHelpline.ph
 - 💻 Recent build: a Laravel 12 multi-user blog/e-commerce platform with role-based auth, custom middleware, and full CRUD
 - 📊 On the data side: SQL/MySQL (window functions, CTEs), Power BI, Excel, and Python
 - 📄 [View my resume](https://raw.githubusercontent.com/mgabunad/portfolio/main/Mayjhon_Gabunada_Resume.pdf)
