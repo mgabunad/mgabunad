@@ -1,5 +1,7 @@
 # Hi, I'm Mayjhon 👋
 
+<img src="https://raw.githubusercontent.com/mgabunad/mgabunad/main/profile_avatar.jpg" width="150" height="150" style="border-radius: 50%;" alt="Mayjhon Gabunada" />
+
 Full Stack Web Developer & Data Analyst based in Cebu, Philippines — developing web applications with Laravel and working with data to find clear insights.
 
 - 🎓 Building skills in Full Stack Web Development and Full Stack Data Analytics at CIIT College, plus a Data Analyst program at ExcelHelpline.ph
