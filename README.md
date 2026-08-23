@@ -10,7 +10,7 @@ Full Stack Web Developer & Data Analyst based in Cebu, Philippines — developin
 - 💻 Recent build: a Laravel 12 multi-user blog/e-commerce platform with role-based auth, custom middleware, and full CRUD
 - 📊 On the data side: SQL/MySQL (window functions, CTEs), Power BI, Excel, and Python
 - 📄 [View my resume](https://raw.githubusercontent.com/mgabunad/portfolio/main/Mayjhon_Gabunada_Resume.pdf)
-- 🌐 [View my portfolio](https://mgabunad.github.io/portfolio/Mayjhon_Gabunada_Portfolio.html)
+- 🌐 [View my portfolio](https://mgabunad.github.io/portfolio/)
 - 📬 Reach me at mayjhongabunada13@gmail.com
 
 ## Tech Stack
