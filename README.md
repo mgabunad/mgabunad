@@ -14,7 +14,7 @@ Full Stack Web Developer & Data Analyst based in Cebu, Philippines — developin
 - 📬 Reach me at mayjhongabunada13@gmail.com
 
 ## Tech Stack
-
+ ![Tech stack](tech-stack-badges.svg)
 
 **Languages & Frameworks:** PHP · Laravel 12 · Python · HTML/CSS · Bootstrap 5
 
