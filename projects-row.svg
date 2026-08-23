@@ -1,0 +1,39 @@
+<svg width="680" height="200" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mayjhon's featured projects">
+<rect width="680" height="200" fill="#0D1117"/>
+
+<rect x="20" y="20" width="150" height="160" rx="10" fill="#161B22" stroke="#4A3FA8" stroke-width="1"/>
+<text x="35" y="45" font-family="Courier New, monospace" font-size="11" font-weight="bold" fill="#A79CF0">LARAVEL</text>
+<text x="35" y="72" font-family="Verdana, Arial, sans-serif" font-size="14" font-weight="bold" fill="#F0F3F6">Laravel Blog &amp;</text>
+<text x="35" y="92" font-family="Verdana, Arial, sans-serif" font-size="14" font-weight="bold" fill="#F0F3F6">E-Commerce</text>
+<rect x="35" y="118" width="58" height="22" rx="11" fill="#2E2470"/>
+<text x="64" y="133" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10" fill="#CEC9FF">Laravel</text>
+<rect x="98" y="118" width="52" height="22" rx="11" fill="#2E2470"/>
+<text x="124" y="133" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10" fill="#CEC9FF">MySQL</text>
+
+<rect x="185" y="20" width="150" height="160" rx="10" fill="#161B22" stroke="#0F6E56" stroke-width="1"/>
+<text x="200" y="45" font-family="Courier New, monospace" font-size="11" font-weight="bold" fill="#6FDDB8">DATABASE</text>
+<text x="200" y="72" font-family="Verdana, Arial, sans-serif" font-size="14" font-weight="bold" fill="#F0F3F6">Product</text>
+<text x="200" y="92" font-family="Verdana, Arial, sans-serif" font-size="14" font-weight="bold" fill="#F0F3F6">Inventory DB</text>
+<rect x="200" y="118" width="58" height="22" rx="11" fill="#0C4A3B"/>
+<text x="229" y="133" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10" fill="#9FE1CB">MySQL</text>
+<rect x="263" y="118" width="52" height="22" rx="11" fill="#0C4A3B"/>
+<text x="289" y="133" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10" fill="#9FE1CB">SQL</text>
+
+<rect x="350" y="20" width="150" height="160" rx="10" fill="#161B22" stroke="#B84A22" stroke-width="1"/>
+<text x="365" y="45" font-family="Courier New, monospace" font-size="11" font-weight="bold" fill="#F0997B">PHP</text>
+<text x="365" y="72" font-family="Verdana, Arial, sans-serif" font-size="14" font-weight="bold" fill="#F0F3F6">OOP Library</text>
+<text x="365" y="92" font-family="Verdana, Arial, sans-serif" font-size="14" font-weight="bold" fill="#F0F3F6">System</text>
+<rect x="365" y="118" width="58" height="22" rx="11" fill="#5C2814"/>
+<text x="394" y="133" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10" fill="#F5C4B3">PHP</text>
+<rect x="428" y="118" width="52" height="22" rx="11" fill="#5C2814"/>
+<text x="454" y="133" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10" fill="#F5C4B3">OOP</text>
+
+<rect x="515" y="20" width="150" height="160" rx="10" fill="#161B22" stroke="#1D6FB8" stroke-width="1"/>
+<text x="530" y="45" font-family="Courier New, monospace" font-size="11" font-weight="bold" fill="#7FBAF0">PYTHON</text>
+<text x="530" y="72" font-family="Verdana, Arial, sans-serif" font-size="14" font-weight="bold" fill="#F0F3F6">Python</text>
+<text x="530" y="92" font-family="Verdana, Arial, sans-serif" font-size="14" font-weight="bold" fill="#F0F3F6">Fundamentals</text>
+<rect x="530" y="118" width="58" height="22" rx="11" fill="#0E3A5C"/>
+<text x="559" y="133" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10" fill="#B8DCF9">Python</text>
+<rect x="593" y="118" width="72" height="22" rx="11" fill="#0E3A5C"/>
+<text x="629" y="133" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10" fill="#B8DCF9">Debugging</text>
+</svg>
