@@ -1,0 +1,25 @@
+<svg width="680" height="220" viewBox="0 0 680 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub journey timeline">
+<rect width="680" height="220" fill="#0D1117"/>
+
+<rect x="40" y="70" width="180" height="56" rx="8" fill="#3C3489" stroke="#7F77DD" stroke-width="1"/>
+<text x="130" y="90" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="14" font-weight="bold" fill="#EEEDFE">Joined GitHub</text>
+<text x="130" y="108" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#CECBF6">Aug 22, 2026</text>
+
+<line x1="224" y1="98" x2="246" y2="98" stroke="#8B93A7" stroke-width="1.5"/>
+<polygon points="246,98 238,94 238,102" fill="#8B93A7"/>
+
+<rect x="250" y="70" width="180" height="56" rx="8" fill="#085041" stroke="#1D9E75" stroke-width="1"/>
+<text x="340" y="90" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="14" font-weight="bold" fill="#E1F5EE">First repository</text>
+<text x="340" y="108" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#9FE1CB">portfolio · public</text>
+
+<line x1="434" y1="98" x2="456" y2="98" stroke="#8B93A7" stroke-width="1.5"/>
+<polygon points="456,98 448,94 448,102" fill="#8B93A7"/>
+
+<rect x="460" y="70" width="180" height="56" rx="8" fill="#712B13" stroke="#F0997B" stroke-width="1"/>
+<text x="550" y="90" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="14" font-weight="bold" fill="#FAECE7">Second repository</text>
+<text x="550" y="108" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#F5C4B3">mgabunad · Aug 23</text>
+
+<text x="130" y="150" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#8B93A7">Account created</text>
+<text x="340" y="150" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#8B93A7">Portfolio site published</text>
+<text x="550" y="150" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#8B93A7">Profile README repo</text>
+</svg>
